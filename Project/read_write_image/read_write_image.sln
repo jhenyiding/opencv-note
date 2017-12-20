@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "read_write_image", "read_write_image\read_write_image.vcxproj", "{BC755EBC-C877-48F5-8A15-C0AF46E09852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC755EBC-C877-48F5-8A15-C0AF46E09852}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC755EBC-C877-48F5-8A15-C0AF46E09852}.Debug|Win32.Build.0 = Debug|Win32
+		{BC755EBC-C877-48F5-8A15-C0AF46E09852}.Debug|x64.ActiveCfg = Debug|x64
+		{BC755EBC-C877-48F5-8A15-C0AF46E09852}.Debug|x64.Build.0 = Debug|x64
+		{BC755EBC-C877-48F5-8A15-C0AF46E09852}.Release|Win32.ActiveCfg = Release|Win32
+		{BC755EBC-C877-48F5-8A15-C0AF46E09852}.Release|Win32.Build.0 = Release|Win32
+		{BC755EBC-C877-48F5-8A15-C0AF46E09852}.Release|x64.ActiveCfg = Release|x64
+		{BC755EBC-C877-48F5-8A15-C0AF46E09852}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

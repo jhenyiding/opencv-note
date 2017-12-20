@@ -1,0 +1,18 @@
+﻿Build started 12/20/2017 11:41:17 AM.
+     1>Project "D:\GitHub_Program\opencv-note\Project\read_write_image\read_write_image\read_write_image.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I..\..\..\3rdParty\openCV\opencv3.0.0\include /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt read_write_image.cpp
+         read_write_image.cpp
+     1>D:\GitHub_Program\opencv-note\3rdParty\openCV\opencv3.0.0\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>D:\GitHub_Program\opencv-note\3rdParty\openCV\opencv3.0.0\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>D:\GitHub_Program\opencv-note\3rdParty\openCV\opencv3.0.0\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GitHub_Program\opencv-note\Project\read_write_image\x64\Release\read_write_image.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\3rdParty\openCV\opencv3.0.0\lib\x64 opencv_world300.lib opencv_ts300.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GitHub_Program\opencv-note\Project\read_write_image\x64\Release\read_write_image.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GitHub_Program\opencv-note\Project\read_write_image\x64\Release\read_write_image.lib" /MACHINE:X64 x64\Release\read_write_image.obj
+         Generating code
+         Finished generating code
+         read_write_image.vcxproj -> D:\GitHub_Program\opencv-note\Project\read_write_image\x64\Release\read_write_image.exe
+     1>Done Building Project "D:\GitHub_Program\opencv-note\Project\read_write_image\read_write_image\read_write_image.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.14
